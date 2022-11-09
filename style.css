@@ -14,3 +14,11 @@
     font-style: normal;
     font-weight: 700;
 }
+
+.hero-image {
+  background-image: url(./images/header-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  margin: 0 50px;
+}
