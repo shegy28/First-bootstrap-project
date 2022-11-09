@@ -18,7 +18,16 @@
 .hero-image {
   background-image: url(./images/header-bg.png);
   background-repeat: no-repeat;
-  background-size: cover;
-  height: 100vh;
+  background-size:contain;
+  height: 80vh;
   margin: 0 50px;
 }
+
+.hero-text {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #172b4d;
+  }
