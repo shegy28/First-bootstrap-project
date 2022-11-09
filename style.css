@@ -1,0 +1,16 @@
+.li-nav {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    color: #344563;
+    
+  }
+
+.nav-logo {
+    color: #6070ff;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+}
